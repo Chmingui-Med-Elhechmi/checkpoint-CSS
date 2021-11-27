@@ -1,0 +1,43 @@
+nav {
+    display: inline;
+}
+
+body{
+    font-family: 'roboto';
+    background-color: skyblue;
+}
+
+.title{
+    color: blue;
+    text-decoration: underline;
+}
+
+.title1 {
+    color: red;
+    text-align: center;
+}
+
+.title2 {
+    color: green;
+}
+
+p {
+    border-style: ridge; 
+    border-color: black;
+}
+
+footer{
+    background-color: darkgray;
+}
+
+label {
+    display: inline-block;
+}
+
+footer{
+    text-align: center;
+}
+
+ul {
+    display: inline-block; text-align: left;
+}
